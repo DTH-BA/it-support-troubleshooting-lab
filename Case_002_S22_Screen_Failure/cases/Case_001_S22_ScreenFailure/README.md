@@ -47,7 +47,7 @@ Customer urgently requested **data backup and extraction** before sending the de
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - USB-C Hub with HDMI and USB ports  
 - External monitor  
 - Wireless mouse  
@@ -55,21 +55,21 @@ Customer urgently requested **data backup and extraction** before sending the de
 
 ---
 
-## 🧾 Attached Files
+## Attached Files
 | File | Description |
 |------|--------------|
-| 📄 [Technical_Ticket.pdf](./Technical_Ticket.pdf) | Full technical troubleshooting ticket |
+| [Technical_Ticket.pdf](./Technical_Ticket.pdf) | Full technical troubleshooting ticket |
 
 ---
 
-## ⚠️ Preventive Recommendations
+## Preventive Recommendations
 - Monitor device temperature; **avoid long-term high heat exposure** (gaming, charging while in use).  
 - Perform **early inspection** if the phone exhibits flickering or overheating.  
 - Always use **original charger** and avoid using phone in direct sunlight.  
 
 ---
 
-## 🏁 Outcome
+## Outcome
 Data successfully backed up.  
 Built-in display remains dead — requires OEM hardware replacement.  
 Customer notified and acknowledged next steps.
