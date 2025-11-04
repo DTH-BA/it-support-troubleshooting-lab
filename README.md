@@ -54,7 +54,7 @@ This repository follows the **CompTIA A+ Core 1 & Core 2 domains**:
 
 ---
 
-## 🧭 Future Plans
+## Future Plans
 
 - Add bilingual (English–Vietnamese) technical notes for learning clarity.  
 - Expand to include **Network+ troubleshooting** and **Blue Team SOC Labs**.  
@@ -62,7 +62,7 @@ This repository follows the **CompTIA A+ Core 1 & Core 2 domains**:
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 Inspired by:
 - CompTIA A+ Core 1 (220-1101) & Core 2 (220-1102) objectives  
