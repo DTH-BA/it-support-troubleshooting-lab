@@ -1,4 +1,4 @@
-# 📱 Case 001 – Samsung Galaxy S22 Ultra Screen Failure & Data Extraction
+# Case 001 – Samsung Galaxy S22 Ultra Screen Failure & Data Extraction
 
 **Category:** Mobile Devices → Display / Hardware  
 **Status:** Resolved  
