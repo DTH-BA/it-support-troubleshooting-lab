@@ -58,7 +58,7 @@ Customer urgently requested **data backup and extraction** before sending the de
 ## Attached Files
 | File | Description |
 |------|--------------|
-| [Technical_Ticket.pdf]([./Technical_Ticket.pdf](https://github.com/DTH-BA/it-support-troubleshooting-lab/blob/main/Case_002_S22_Screen_Failure/Technical_Ticket.pdf)) | Full technical troubleshooting ticket |
+| [Technical_Ticket.pdf](./it-support-troubleshooting-lab/Case_002_S22_Screen_Failure/Technical_Ticket.pdf) | Full technical troubleshooting ticket |
 
 ---
 
